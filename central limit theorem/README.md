@@ -24,9 +24,19 @@ The following Python packages are required to run this project:
 - seaborn
 These packages can be installed using Python's pip package manager:
 
-'''
-pip install numpy matplotlib seaborn
-'''
+```
+pip install -r requirements.txt
+```
+
+## Usage
+To use this project, follow these steps:
+
+1. Clone the repository.
+2. Ensure that the NumPy, Matplotlib, and seaborn packages are installed.
+3. Run the Python script. This will generate an image of the resulting histogram.
+4. Open the image of the histogram to view the Central Limit Theorem visualization.
+
+This project serves as a simple demonstration of the Central Limit Theorem and can be extended or adapted for other purposes, such as part of a statistics or probability course, or as a teaching tool.
 
 
 
